@@ -13,16 +13,20 @@ By transforming raw customer data into strategic insights, this project demonstr
 
 # Dataset
 # Tools
- - Python - Data Preparation & Modelling
+ - **Python** - Data Preparation & Modelling
+
 Used for cleaning, transforming, and structuring raw customer data.
 
- - SQL - Data Analysis
+ - **SQL** - Data Analysis
+
 Applied to organize and query the dataset, simulate business transactions, and extract insights on customer segmentation, loyalty patterns, and purchase behavior.
 
-- Power BI - Visualization & Insights
+- **Power BI** - Visualization & Insights
+
 Designed an interactive dashboard to visualize key performance metrics, shopping trends, and behavioral insights. The dashboard supports dynamic filtering and storytelling for business decision-making.
 
-- GitHub - Version Control & Documentation
+- **GitHub** - Version Control & Documentation
+
 Serves as the central repository for all project files, including Python scripts, SQL queries, Power BI reports, and documentation. 
 
 # Steps
