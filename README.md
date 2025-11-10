@@ -42,6 +42,8 @@ Serves as the central repository for all project files, including Python scripts
 I began with data preparation and cleaning in Python:
  - Data Loading: Imported the dataset using pandas.
  - Initial Exploration: Used df.info() to check structure and .describe() for summary statistics
+
+![Dashboard Preview](https://github.com/Mumo-The-Analyst/FNP---Excel-Project/blob/main/FernsandPetals(FNP).png)
 # 5. Data Analysis using SQL (Business Transactions)
 # 6. Dashboard in Power BI
 # 7. Business Recommendations
