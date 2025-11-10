@@ -38,6 +38,10 @@ Designed an interactive dashboard to visualize key performance metrics, shopping
 Serves as the central repository for all project files, including Python scripts, SQL queries, Power BI reports, and documentation. 
 
 # 4. Exploratory Data Analysis using Python
+
+I began with data preparation and cleaning in Python:
+ - Data Loading: Imported the dataset using pandas.
+ - Initial Exploration: Used df.info() to check structure and .describe() for summary statistics
 # 5. Data Analysis using SQL (Business Transactions)
 # 6. Dashboard in Power BI
 # 7. Business Recommendations
