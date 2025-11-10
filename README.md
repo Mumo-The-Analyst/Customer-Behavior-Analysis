@@ -61,31 +61,56 @@ I performed structured analysis in Microsoft SQL Management Studio to answer key
    
    - Male customers generated more revenue as compared to female customers.
      
-3. **High-Spending Discount Users** - Identified customers who used discounts but still spent above the average purchase amount.
+2. **High-Spending Discount Users** - Identified customers who used discounts but still spent above the average purchase amount.
+
    ![High-Spending Discount Users](high_spending_discount_users.png)
+   
    - 839 customers used discounts but still spent above the average purchase amount.
-4. **Top 5 Products by Rating** - Found products with the highest average review ratings.
+     
+3. **Top 5 Products by Rating** - Found products with the highest average review ratings.
+
    ![Top 5 Products by Rating](top_5_products_by_rating.png)
+   
    - Gloves had the highest ratings with 3.86.
-5. **Shipping Type Comparison** - Compared average purchase amounts between Standard and Express shipping.
+     
+4. **Shipping Type Comparison** - Compared average purchase amounts between Standard and Express shipping.
+
    ![Shipping Type Comparison](shipping_type_comparison.png)
+   
    - Express shipping customers had higher average purchase amounts.
-6. **Subscribers vs. Non-Subscribers** - Compared average spend and total revenue across subscription status.
+     
+5. **Subscribers vs. Non-Subscribers** - Compared average spend and total revenue across subscription status.
+
    ![Subscribers vs. Non-Subscribers](subscribers_vs_non_subscribers.png)
+   
    - There were more Non-Subscribers, spending on average more and generating more total revenue than Subscribers.
-7. **Discount-Dependent Products** - Identified 5 products with the highest percentage of discounted purchases.
+     
+6. **Discount-Dependent Products** - Identified 5 products with the highest percentage of discounted purchases.
+
    ![Discount-Dependent Products](discount_dependent_products.png)
-8. **Customer Segmentation** - Classified customers into New, Returning, and Loyal segments based on purchase history.
+   
+7. **Customer Segmentation** - Classified customers into New, Returning, and Loyal segments based on purchase history.
+
    ![Customer Segmentation](customer_segmentation.png)
+   
    - Based on the purchase history, Loyal customers were the most, followed by Returning customers while New customers were the least.
-9. **Top 3 Products per Category** - Listed the most purchased products within each category.
+     
+8. **Top 3 Products per Category** - Listed the most purchased products within each category.
+
    ![Top 3 Products per Category](top_3_products_per_category.png)
-10. **Repeat Buyers and Subscriptions** - Checked whether customers with more than 5 purchases are more likely to subscribe.
-    ![Repeat Buyers & Subscriptions](repeat_buyers_and_subscriptions.png)
+   
+9. **Repeat Buyers and Subscriptions** - Checked whether customers with more than 5 purchases are more likely to subscribe.
+
+   ![Repeat Buyers & Subscriptions](repeat_buyers_and_subscriptions.png)
+   
    - Customers with more than 5 purchases are less likely to subscribe.
-11. **Revenue by Age Group** - Calculated total revenue contribution of each age group.
+     
+10. **Revenue by Age Group** - Calculated total revenue contribution of each age group.
+
     ![Revenue by Age Group](revenue_by_age_group.png)
+    
     - Young customers (Youth) generated the most revenue while Old customers generated the least revenue for Sam's Mart.
+      
 # 6. Dashboard in Power BI
 # 7. Business Recommendations
 # How to Run
