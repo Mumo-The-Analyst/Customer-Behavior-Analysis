@@ -1,7 +1,7 @@
 # Sam's Mart - Customer Behavior Analysis
 End-to-end data analysis project - customer behavior analysis using Python, SQL, and PowerBI
 
-# Overview
+# 1. Overview
 This project explores how Sam’s Mart, a leading retail company, can leverage consumer shopping data to better understand customer behavior and enhance business performance. Using a comprehensive customer dataset, the analysis focuses on identifying key factors influencing purchasing patterns across demographics, product categories, and channels (online vs. offline).
 The study investigates how elements such as discounts, product reviews, seasonal trends, and payment preferences affect customer engagement, conversion rates, and repeat purchases. Through data cleaning, exploratory data analysis (EDA), and visualization, the project uncovers actionable insights that can help Sam’s Mart:
 
@@ -11,7 +11,7 @@ The study investigates how elements such as discounts, product reviews, seasonal
    
 By transforming raw customer data into strategic insights, this project demonstrates the power of data analytics in shaping smarter retail decisions.
 
-# Dataset
+# 2. Dataset
 - Rows: 3,900
 - Columns: 18
 - Key Features:
@@ -20,7 +20,7 @@ By transforming raw customer data into strategic insights, this project demonstr
    - Shopping behavior (Discount Applied, Promo Code Used, Previous Purchases, Frequency of Purchases, Review Rating, Shipping Type)
    - Missing Data: 37 values in Review Rating column
 
-# Tools
+# 3. Tools
  - **Python** - Data Preparation & Modelling
 
 Used for cleaning, transforming, and structuring raw customer data.
@@ -37,7 +37,8 @@ Designed an interactive dashboard to visualize key performance metrics, shopping
 
 Serves as the central repository for all project files, including Python scripts, SQL queries, Power BI reports, and documentation. 
 
-# Steps
-# Dashboard
-# Results
+# 4. Exploratory Data Analysis using Python
+# 5. Data Analysis using SQL (Business Transactions)
+# 6. Dashboard in Power BI
+# 7. Business Recommendations
 # How to Run
