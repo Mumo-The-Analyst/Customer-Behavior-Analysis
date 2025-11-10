@@ -12,6 +12,14 @@ The study investigates how elements such as discounts, product reviews, seasonal
 By transforming raw customer data into strategic insights, this project demonstrates the power of data analytics in shaping smarter retail decisions.
 
 # Dataset
+- Rows: 3,900
+- Columns: 18
+- Key Features:
+   - Customer demographics (Age, Gender, Location, Subscription Status)
+   - Purchase details (Item Purchases, Category, Purchase Amount, Season, Size, Color)
+   - Shopping behavior (Discount Applied, Promo Code Used, Previous Purchases, Frequency of Purchases, Review Rating, Shipping Type)
+   - Missing Data: 37 values in Review Rating column
+
 # Tools
  - **Python** - Data Preparation & Modelling
 
