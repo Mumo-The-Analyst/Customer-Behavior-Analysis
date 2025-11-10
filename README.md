@@ -43,7 +43,8 @@ I began with data preparation and cleaning in Python:
  - Data Loading: Imported the dataset using pandas.
  - Initial Exploration: Used df.info() to check structure and .describe() for summary statistics
 
-![Dashboard Preview](summary_statistics.png)
+![Summary Statistics](summary_statistics.png)
+![Summary Statistics](summary_statistics_2.png)
 # 5. Data Analysis using SQL (Business Transactions)
 # 6. Dashboard in Power BI
 # 7. Business Recommendations
