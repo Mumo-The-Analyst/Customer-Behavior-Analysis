@@ -114,5 +114,9 @@ I performed structured analysis in Microsoft SQL Management Studio to answer key
     - Young customers (Youth) generated the most revenue while Old customers generated the least revenue for Sam's Mart.
       
 # 6. Dashboard in Power BI
+Finally, I designed an interactive dashboard in Power BI to visualize key performance metrics, shopping trends, and behavioral insights. The dashboard supports dynamic filtering and storytelling for business decision-making.
+    
+   ![Revenue by Age Group](sams_mart_customer_behavior_dashboard.png)
+    
 # 7. Business Recommendations
 # How to Run
