@@ -88,24 +88,26 @@ I performed structured analysis in Microsoft SQL Management Studio to answer key
 6. **Discount-Dependent Products** - Identified 5 products with the highest percentage of discounted purchases.
 
    ![Discount-Dependent Products](discount_dependent_products.png)
+
+   - Hat had a 50% of being sold with a discount.
    
-7. **Customer Segmentation** - Classified customers into New, Returning, and Loyal segments based on purchase history.
+8. **Customer Segmentation** - Classified customers into New, Returning, and Loyal segments based on purchase history.
 
    ![Customer Segmentation](customer_segmentation.png)
    
    - Based on the purchase history, Loyal customers were the most, followed by Returning customers while New customers were the least.
      
-8. **Top 3 Products per Category** - Listed the most purchased products within each category.
+9. **Top 3 Products per Category** - Listed the most purchased products within each category.
 
    ![Top 3 Products per Category](top_3_products_per_category.png)
    
-9. **Repeat Buyers and Subscriptions** - Checked whether customers with more than 5 purchases are more likely to subscribe.
+10. **Repeat Buyers and Subscriptions** - Checked whether customers with more than 5 purchases are more likely to subscribe.
 
    ![Repeat Buyers & Subscriptions](repeat_buyers_and_subscriptions.png)
    
-   - Customers with more than 5 purchases are less likely to subscribe.
+   - Majority of the repeat customers are not subscribed.
      
-10. **Revenue by Age Group** - Calculated total revenue contribution of each age group.
+11. **Revenue by Age Group** - Calculated total revenue contribution of each age group.
 
     ![Revenue by Age Group](revenue_by_age_group.png)
     
