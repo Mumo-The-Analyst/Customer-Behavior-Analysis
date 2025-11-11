@@ -65,7 +65,7 @@ I performed structured analysis in Microsoft SQL Management Studio to answer key
 
    ![High-Spending Discount Users](high_spending_discount_users.png)
    
-   - 839 customers used discounts but still spent above the average purchase amount.
+   - 863 customers used discounts but still spent above the average purchase amount.
      
 3. **Top 5 Products by Rating** - Found products with the highest average review ratings.
 
