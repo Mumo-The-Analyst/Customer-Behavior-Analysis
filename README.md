@@ -93,7 +93,7 @@ I performed structured analysis in Microsoft SQL Management Studio to answer key
    
 8. **Customer Segmentation** - Classified customers into New, Returning, and Loyal segments based on purchase history.
 
-   ![Customer Segmentation](customer_segmentation.png)
+   ![Customer Segmentation](asset/customer_segmentation.png)
    
    - Based on the purchase history, Loyal customers were the most, followed by Returning customers while New customers were the least.
      
