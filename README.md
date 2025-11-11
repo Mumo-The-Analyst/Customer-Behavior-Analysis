@@ -119,4 +119,56 @@ Finally, I designed an interactive dashboard in Power BI to visualize key perfor
    ![Revenue by Age Group](asset/sams_mart_customer_behavior_dashboard.png)
     
 # 7. Business Recommendations
-# How to Run
+
+**1️. Implement Targeted Marketing by Gender and Age Group**
+**Insight:**
+
+- SQL results show male customers generate higher revenue, and youth customers contribute the most to total sales.
+  
+**Recommendation:**
+
+- Focus marketing campaigns and personalized product recommendations toward the youth segment and male customers, especially through digital channels. For female customers, introduce product bundles or loyalty incentives to increase purchase frequency and total spend.
+
+**2️. Re-Evaluate the Subscription Program**
+
+**Insight:**
+
+- Non-subscribers spend more on average and contribute more total revenue than subscribers.
+
+**Recommendation:**
+
+- Reassess the subscription benefits to make them more appealing — for example, include exclusive discounts, early access to new products, or free express shipping. Consider a tiered loyalty program to better reward returning and high-spending customers.
+
+**3️. Optimize Pricing and Discount Strategy**
+
+**Insight:**
+
+- Over 850 customers used discounts but still spent above the average purchase amount, and some products (like hats) have high discount dependency.
+
+**Recommendation:**
+
+- Maintain moderate discounts on high-performing items to sustain sales without eroding profit.
+- For discount-dependent items, test value-based pricing or bundle promotions to reduce overreliance on markdowns.
+
+**4️. Improve Customer Experience through Shipping Options**
+
+**Insight:**
+
+- Customers using Express Shipping show higher average purchase amounts than those using Standard Shipping.
+
+**Recommendation:**
+
+- Promote Express Shipping as part of premium offers or bundle it with loyalty perks. Offer free express upgrades for top spenders or subscribers to enhance satisfaction and drive repeat purchases.
+
+**5️. Leverage Reviews and Repeat Purchase Behavior**
+
+**Insight:**
+
+- Products with higher review ratings (like gloves) have strong customer engagement. However, most repeat buyers are not subscribed.
+
+**Recommendation:**
+
+- Encourage customers to leave reviews through incentives like loyalty points or small discounts.
+- Use review data to highlight top-rated products on the online store.
+- Target repeat buyers with personalized re-engagement emails to convert them into loyal subscribers.
+
